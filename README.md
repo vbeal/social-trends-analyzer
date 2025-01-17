@@ -78,6 +78,6 @@ O aplicativo permite explorar dados de músicas de alta e baixa popularidade no 
 
 ---
 
-**Autor:** [Victor Beaql]  
-**Repositório:** [Repositório do Projeto no GitHub](https://github.com/vbeal/social-trends-analyzer)  
+**Autor:** [Victor Beal]  
+**Repositório:** [Repositório do Projeto no GitHub](https://github.com/vbeal?tab=repositories)  
 **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/victorbeal)
